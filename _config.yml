@@ -7,14 +7,14 @@ canonical:
 owner:
   name:           Eden Staten
   avatar:         
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            
+  email:          
+  twitter:        
+  github:         
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       
   # Plug in your disqus shortname!
 
 tools:
